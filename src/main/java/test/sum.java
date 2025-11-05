@@ -1,6 +1,6 @@
 package test;
 
-import static sum.sum1;
+
 
 public class sum {
     static int a = 5;
